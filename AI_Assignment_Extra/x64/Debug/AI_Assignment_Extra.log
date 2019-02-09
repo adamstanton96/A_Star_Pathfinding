@@ -1,0 +1,7 @@
+﻿  main.cpp
+f:\ai\assignment\implementation master folder\main\implementation\ai_assignment_extra\main.cpp(228): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+f:\ai\assignment\implementation master folder\main\implementation\ai_assignment_extra\main.cpp(189): warning C4715: 'AStarAlgorithm': not all control paths return a value
+f:\ai\assignment\implementation master folder\main\implementation\ai_assignment_extra\node.h(77): warning C4715: 'node::parentRoute': not all control paths return a value
+f:\ai\assignment\implementation master folder\main\implementation\ai_assignment_extra\node.h(61): warning C4715: 'node::parentPathWeight': not all control paths return a value
+f:\ai\assignment\implementation master folder\main\implementation\ai_assignment_extra\node.h(89): warning C4715: 'node::getPathWeight': not all control paths return a value
+  AI_Assignment_Extra.vcxproj -> F:\AI\Assignment\Implementation Master Folder\Main\Implementation\x64\Debug\AI_Assignment_Extra.exe
